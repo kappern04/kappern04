@@ -26,13 +26,12 @@
 
 <br/>
 
-### Activity
-<p align="center">
-  <table><tr>
-    <td><img src="https://skillicons.dev/icons?i=spotify" height="80" /></td>
-    <td><a href="https://discord.com/users/269555696054435841"><img src="https://lanyard.cnrad.dev/api/269555696054435841?hideStatus=true&hideTag=true&hideProfile=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true&showDisplayName=true&animatedDecoration=false&animated=false&bg=00000&borderRadius=10px" /></a></td>
-  </tr></table>
-</p>
+### Now Playing
+
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+  <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=spotify" height="100" /></td>
+  <td align="center" valign="middle"><a href="https://discord.com/users/269555696054435841"><img src="https://lanyard.cnrad.dev/api/269555696054435841?hideStatus=true&hideTag=true&hideProfile=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true&showDisplayName=true&animatedDecoration=false&animated=false&bg=00000&borderRadius=12px&height=100" /></a></td>
+</tr></table>
 <br/>
 
 ### GitHub stats
