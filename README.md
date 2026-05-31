@@ -27,7 +27,11 @@
 <br/>
 
 ### Activity
-[![Discord Presence](https://lanyard.cnrad.dev/api/269555696054435841)](https://discord.com/users/269555696054435841)
+<p align="center">
+  <a href="https://discord.com/users/269555696054435841">
+    <img src="https://lanyard.cnrad.dev/api/269555696054435841?hideStatus=true&hideTag=true&hideProfile=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true&showDisplayName=true&animatedDecoration=false&animated=false&bg=191414&borderRadius=10px" />
+  </a>
+</p>
 <br/>
 
 ### GitHub stats
