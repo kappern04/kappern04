@@ -28,9 +28,10 @@
 
 ### Activity
 <p align="center">
-  <a href="https://discord.com/users/269555696054435841">
-    <img src="https://lanyard.cnrad.dev/api/269555696054435841?hideStatus=true&hideTag=true&hideProfile=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true&showDisplayName=true&animatedDecoration=false&animated=false&bg=191414&borderRadius=10px" />
-  </a>
+  <table><tr>
+    <td><img src="https://skillicons.dev/icons?i=spotify" height="80" /></td>
+    <td><a href="https://discord.com/users/269555696054435841"><img src="https://lanyard.cnrad.dev/api/269555696054435841?hideStatus=true&hideTag=true&hideProfile=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true&showDisplayName=true&animatedDecoration=false&animated=false&bg=00000&borderRadius=10px" /></a></td>
+  </tr></table>
 </p>
 <br/>
 
